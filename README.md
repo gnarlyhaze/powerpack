@@ -6,7 +6,7 @@
 4. easy to use<br>
 5. system tools update<br> 
 <br> 
-**Installation process**
+*Installation process*
  1. Download this git
  2. Extract powerpack 
  3. Make it executable 
